@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T06:41:35.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qE7qYExg2jgQodHgif6u" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T06:42:58.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fN6trUs__M1sSc5bv7qn" version="24.4.0" type="github">
   <diagram name="第 1 页" id="ay8zSq0YFjXtsoNVwPrW">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="umRqDT9wv54C0nJAqI9t-10" value="&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-size: 10px; letter-spacing: 0.7px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Comic Sans MS&quot;&gt;LifecycleEventObserver&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;textShadow=0;shadow=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="165" y="380" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="umRqDT9wv54C0nJAqI9t-11" value="LifecycleOwner" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="55" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
